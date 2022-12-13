@@ -1,0 +1,26 @@
+body{
+    font-size: 30px;
+    background-color: white;
+    color: blue;
+    margin: 10px;
+}
+
+p{
+    color:red;
+}
+h1, h2, h3{
+    color: black;
+}
+a:link{
+    color: blue;
+}
+.a:visited{
+    color: black;
+}
+.a:hover{
+    color: purple;
+}
+.a:active{
+    color: red;
+} 
+    
